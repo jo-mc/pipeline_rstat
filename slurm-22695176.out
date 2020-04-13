@@ -1,0 +1,29 @@
+data is from pipeawk: fatal: cannot open file `chr1.txt' for reading (No such file or directory)
+
+===========================================================================
+Phoenix Job Utilisation Reporting
+===========================================================================
+Job Name            : batch.sh
+Job ID              : 22695176
+User                : a1779913
+Account             : rc003
+Cluster             : phoenix
+Partition           : cpu
+Nodes (List)        : 1 (r1n36)
+Cores               : 1
+GPUs                : 0
+State               : COMPLETED
+Submit              : 2020-03-27T00:43:21
+Start               : 2020-03-27T00:43:21
+End                 : 2020-03-27T00:43:22
+Walltime reserved   : 1-00:00:00
+Walltime elapsed (%):   00:00:01  ( 0.0% * reserved)
+CPU-time elapsed    : 0.00 core-hours
+% CPU used (Total)  :  1.80%    (0.00 core-hours)
+% User CPU (Compute):  0.60%    (0.00 core-hours)
+% System CPU (I/O)  :  1.10%    (0.00 core-hours)
+Mem reserved        : 4G/node
+% Mem used (Max)    :  0.02%    (808.00K/node) 
+Max Disk Write      : 0.00      (r1n36)
+Max Disk Read       : 0.00      (r1n36)
+===========================================================================

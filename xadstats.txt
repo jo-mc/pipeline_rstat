@@ -1,0 +1,13 @@
+>:,chr1:0,to,1000000,Mean:,52.39,Var:,103.94,Max:,98.00,Min:,0.00,Med:,NA,StdDev:,0.01,Skew:,-0.07,Kurtosis:,0.67,<
+
+Overall results:
+The sample Mean :52.39
+Std Dev: 10.19
+The estimated variance :103.93
+Largest Value :98.00
+Smallest Value :0.00
+Median : NA
+Standard Deviation of the mean : 0.01
+Skew :-0.07
+Kurtosis :0.67
+Number of items : 1000128

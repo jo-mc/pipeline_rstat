@@ -1,0 +1,12 @@
+
+Overall results:
+The sample Mean : 0
+Std Dev:  -0
+The estimated variance : -0
+Largest Value : 0
+Smallest Value : 0
+Median : NA
+Standard Deviation of the mean :  NaN
+Skew : 0
+Kurtosis : 0
+Number of items : 0
